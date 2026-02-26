@@ -4,7 +4,8 @@ Modern organisations generate enormous volumes of communication data — emails,
 
 Upload a CSV of interactions (From, To, Date, Department), select your columns, and hit Generate. Within seconds you see your organisation as a live network — clusters, bridges, isolated individuals, and cross-functional flows — across eight interactive chart types with timeline playback and AI-powered analysis.
 
-![ONA Dashboard](img/network-3d.gif)
+
+<img width="1474" height="788" alt="image" src="https://github.com/user-attachments/assets/06783349-b946-4ccc-9099-f2cd78e3ca84" />
 
 ## Why ONA Dashboard
 
@@ -16,3 +17,4 @@ Upload a CSV of interactions (From, To, Date, Department), select your columns, 
 - **No installation** — runs in any modern browser, no build step required
 
 [**Try it live →**](https://ona-dashboard.vercel.app)
+
